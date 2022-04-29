@@ -25,6 +25,5 @@ Website Pages (No of Pages) : 6
 
 List down the Web Page Name: Home, Services, Doctors Profile, Booking, Reviews and Blogs.  
 
-Current Status of Website Development: We have already divided the part that each person responsible. Raksa is working on the Home and services page. Sothyro is working on the Doctors Profile and Booking page and Vilya is developing Reviews and Blogs page. We hope to finish everything by Khmer New Year and pull all our code together and fix bugs that might occur.  
-
+Current Status of Website Development: Our website is fully working now. However, without Javascript some behaviour does not working. We will explore more and make our website way better in the future courses. 
  
